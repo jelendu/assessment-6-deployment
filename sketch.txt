@@ -1,0 +1,1 @@
+Assessment-QA-DevOps -> VS Code -> GitHub -> CI/CD -> Amazon EC2 Instance 
